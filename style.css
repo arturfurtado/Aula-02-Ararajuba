@@ -1,0 +1,13 @@
+@charset
+
+    p {color: black;}
+
+    body 
+    {background-image: linear-gradient(to right, rgb(112, 253, 112), rgb(253, 253, 107));} 
+        
+    
+    img {border: 8px solid; border-image:linear-gradient(90deg, rgb(244, 247, 35), rgb(66, 243, 66) 100%) 1;}
+
+       
+    p {text-align: center; text-indent: 40px;}
+        
